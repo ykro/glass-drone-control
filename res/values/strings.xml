@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GlassOrientation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="glass_voice_trigger">drone control</string>
+	
+	
+	<string name="msg_land">Land</string>
+	<string name="msg_takeoff">Take Off</string>
+	<string name="msg_emergency">Emergency</string>
+	<string name="msg_hover">Hover</string>
+	<string name="msg_forward">Forward</string>
+	<string name="msg_backward">Backward</string>		
+	<string name="msg_up">Up</string>
+	<string name="msg_down">Down</string>	
+	<string name="msg_left">Left</string>
+	<string name="msg_right">Right</string>	
+	<string name="msg_spin">Spin</string>
+	<string name="msg_move">Move</string>
+</resources>
